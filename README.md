@@ -6,17 +6,14 @@
 
 ### My name is Macarena Zalazar and I'm Full Stack Developer 🚀
 
+I'm a full-stack developer with 3 years of experience in creating, maintaining, and improving web and mobile applications. Skilled in deploying apps, managing servers, and working with both SQL and NoSQL databases. I'm a versatile team player who adapts easily to new technologies and enjoys taking on diverse project challenges.
 
-- 🔭 I've recently finished HENRY'S bootcamp.
-- 🌱 I’m currently learning Typescript, MongoDB and React Native.
-- 🧠 I'm currently interested on start working in the industry, and became part of projects that improve people's daily lives.
-- ⚡ Fun fact: I'm also a musician, and I love photography and design
 <br/>
 📫 How to reach me = {
 <br/>
-	mail: macarena.zalazar@gmail.com,	
+		mail: macarena.zalazar@gmail.com,	
 <br/>
-	linkedin: https://www.linkedin.com/in/macarenazalazar/
+		linkedin: https://www.linkedin.com/in/macarenazalazar/
 
 }
 <!--
