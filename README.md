@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Macarena%20Zalazar&fontSize=44&fontColor=e0787a&fontAlignY=40&desc=Fullstack%20Developer%20%26%20Fullstack%20Musician&descSize=16&descAlignY=68" alt="Macarena Zalazar, Fullstack Developer & Fullstack Musician" width="100%" />
+  <img src="assets/header.svg" alt="Macarena Zalazar, Fullstack Developer & Fullstack Musician" width="100%" />
 </p>
 
 <p align="center">
